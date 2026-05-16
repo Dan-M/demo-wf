@@ -1,0 +1,15 @@
+{
+  "id": "HD-0001",
+  "title": "Verify GitHub PR adapter against demo-wf",
+  "status": "pr_draft",
+  "artifacts": {
+    "request": ".asdlm/requests/HD-0001/REQUEST.md",
+    "metadata": ".asdlm/requests/HD-0001/metadata.json",
+    "spec": ".asdlm/requests/HD-0001/SPEC.md",
+    "impact": ".asdlm/requests/HD-0001/IMPACT.md",
+    "plan": ".asdlm/requests/HD-0001/PLAN.md",
+    "implementation": ".asdlm/requests/HD-0001/IMPLEMENTATION.md",
+    "qa": ".asdlm/requests/HD-0001/QA.md",
+    "pr": ".asdlm/requests/HD-0001/PR.md"
+  }
+}
